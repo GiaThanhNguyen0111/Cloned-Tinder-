@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;700&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#title {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+#title h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+.btn {
+    padding: 1% 5%;
+}
+
+.icon {
+    color: #ef8172;
+    font-size: 2rem;
+    transition: all ease-out .5s;
+}
+
+.icon:hover  {
+    color: #ff4c68;
+}
+
+.feature {
+    padding: 7% 15%;
+}
+
+.feature h3 {
+    font-size: 1rem;
+    font-weight: bold;
+    font-family: 'Montserrat';
+}
+
+.feature p {
+    color: #8f8f8f;
+    font-size: .5rem;
+}
+
+#testimonials {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+#pricing {
+    padding: 7% 15%;
+}
+
+.special-card {
+    line-height: 0.87;
+}
+
+#pricing h2 {
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+#pricing p {
+    color: #8f8f8f;
+}
+
+.card-body button{
+    margin: 0 auto;
+}
